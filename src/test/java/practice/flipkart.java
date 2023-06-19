@@ -52,7 +52,7 @@ public class flipkart {
 		}
 		
 	Assert.assertEquals(totalcount, expnum);
-		Reporter.log(" count is equal "+totalcount);
+	Reporter.log(" count is equal "+totalcount);
 	driver.quit();
 		
 		
